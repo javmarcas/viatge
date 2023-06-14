@@ -1,0 +1,22 @@
+body {
+    background-color: aquamarine;
+}
+H1 {
+    background-color: brown;
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-display: ;
+color: chocolate;
+}
+p{
+    font-style: oblique;
+    color: brown;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.caixa{
+    background-color: chartreuse;
+    color: blue;
+    border: 1px solid;
+    height: 276px;
+}
+ 
